@@ -1,0 +1,137 @@
+*{
+  margin: 0;
+  padding: 0;
+
+}
+.body{
+  width: 100%;
+  height: 100vh;
+  text-decoration: #fff;
+  background-image: url(./sean-stratton-KzYeP16sQ6Q-unsplash.jpg);
+  background-position: center;
+  background-size: cover;
+  text-align: center;
+  font-family: 'Open Sans', sans-serif;
+ font-size: 20px;
+ text-decoration:none;
+
+}
+.my{
+ width: 200px;
+ transform: translate(-290%,30%);
+}
+.connect{
+  text-align: center;
+  color: #121212;
+  border: 2px solid #101010;
+  height: 400px;
+  width: 350px;
+  background-blend-mode: ;
+  border-radius: 20px;
+  text-decoration: none;
+  align-items: center;
+  transform: translate(150%,-200px);
+  list-style-type:square;
+}
+
+.education{
+  text-align: center;
+  color: #1c1c1c;
+  border: 2px solid rgb(24, 24, 24);
+  height: 400px;
+  padding-left: 30px;
+  width: 380px;
+  background-blend-mode: ;
+  border-radius: 20px;
+  text-decoration: none;
+  align-items: center;
+  transform: translate(260%,-600px);
+  list-style-type:square;;
+  
+}
+.about{
+  text-align: center;
+  color: rgb(243, 245, 247);
+  border: 2px solid black;
+  border-radius: 20px;
+  padding-top:21px ;
+  font-size: 19px;
+  font-family: 'PT Serif', serif;
+  width: 1000px;
+  height: 20vh;
+  align-items: center;
+  background-blend-mode: ;
+  transform: translate(-100%,70%);
+}
+
+.page2{
+  width: 100%;
+  height: 100vh;
+  background-image: url(./peakpx.jpg);
+}
+.skill{
+  color: #fff;
+  background-blend-mode: ; 
+  padding-left: 20px;
+  border-radius: 20px;
+  border: 2px solid rgb(250, 247, 247);
+  width: 30%;
+  height: 65vh;
+  transform: translateX(40px);
+  font-family: 'PT Serif', serif;
+ 
+  
+}
+
+.languages{
+  color: #fff;
+  padding-left: 30px;
+  border-radius: 20px;
+  border: 2px solid rgb(255, 254, 254);
+  width: 30%;
+  height: 65vh;
+  transform: translate(520px,-480px);
+  font-family: 'PT Serif', serif;
+  
+  
+}
+
+.work{
+  color: #fff;
+  padding-left: 30px;
+  border: 2px solid ;
+  border-radius: 20px;
+  width:30% ;
+  height: 65vh;
+  transform: translate(1000px,-960px);
+  font-family: 'PT Serif', serif;
+  
+}
+
+.add{
+  text-align: center;
+  color: rgb(243, 245, 247);
+  border: 2px solid rgb(252, 251, 251);
+  border-radius: 20px;
+  padding-top:30px ;
+  font-size: 19px;
+  font-family: 'PT Serif', serif;
+  width: 1000px;
+  height: 25vh;
+  align-items: center;
+  background-color:rgb(52, 52, 92);
+  transform: translate(2%,-500%);
+  
+}
+.interests{
+  border: 2px solid rgb(254, 253, 253);
+  color: rgb(243, 245, 247);
+  padding-left: 20px;
+  background-color:rgb(52, 52, 92);
+  width: 25%;
+  height: 25vh;
+  border-radius: 20px;
+  transform: translate(1050px,-600%);
+  font-size: 25px;
+  font-family: 'PT Serif', serif;
+}
